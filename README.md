@@ -1,5 +1,5 @@
 <h1 align="center">Alice Namagembe</h1>
-<h3 align="center">AI & Machine Learning Engineer | Data Analyst | Tech for Social Good Advocate</h3>
+<h3 align="center">AI & Machine Learning Engineer • Data Analyst • Tech for Social Good</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/alice-namagembe-18b2b22a1" target="_blank">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧭 Dashboard
+### 🧭 My GitHub Dashboard
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliceNamagembe&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -28,53 +28,43 @@
 
 ---
 
-### 💼 About Me
+### 🌼 About Me
 
-I’m **Alice Namagembe**, an AI & ML engineer passionate about creating impactful and ethical technology solutions for Africa and beyond. With a strong foundation in data science and machine learning, I work on socially driven projects that address real-world challenges in health, education, and gender equity.
+Hi! I’m **Alice**, an AI & Machine Learning Engineer with a passion for building intelligent, ethical, and impactful solutions. I design data-driven systems that uplift communities and solve meaningful problems — especially in healthcare, agriculture, and gender equity.
 
-- 🎓 BSc in AI & Machine Learning — ISBAT University  
-- 🧠 Focused on NLP, predictive modeling, and inclusive tech  
-- 🌍 Advocate for responsible AI in underrepresented communities  
-- 🤝 Zindi Ambassador | Women in AI & STEM Supporter
+- 💻 AI & Data Practitioner based in Kampala, Uganda  
+- 💡 Focused on NLP, ML deployment, and responsible AI  
+- 🤝 Actively contributing to tech communities across Africa  
+- 🌍 Championing tech that includes *everyone*
 
----
-
-### 🚀 Projects & Research
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **MindConnect** | Mental wellness mobile app using AI-driven affirmations, multilingual support, and brainwave therapy integrations. | Flutter, TensorFlow Lite, FastAPI |
-| **AI for Agriculture** | Smart crop disease detection using CNN models. | Python, OpenCV, PyTorch |
-| **NLP for Gender-Based Violence Reporting** | Built a sentiment classifier for anonymized GBV reports. | spaCy, HuggingFace Transformers |
-
-> 🧪 More projects coming soon — stay tuned.
+> I love working on projects that are both smart and kind 🌸
 
 ---
 
-### 🛠 Skills & Tools
+### 🚀 Projects I’m Proud Of
 
-`Python` `Pandas` `NumPy` `scikit-learn` `TensorFlow` `Keras` `PyTorch`  
-`FastAPI` `Flask` `Git` `Docker` `Jupyter` `Tableau` `Power BI`  
-`Natural Language Processing (NLP)` `Computer Vision` `Mobile AI`
-
----
-
-### 🎤 Speaking & Media
-
-- 🧠 Featured Speaker @ **AI for Good Global Summit** (ITU)  
-- 🌐 Mentor @ **Zindi Africa Hackathons**  
-- 🗣️ Talks on **Responsible AI**, **Gender + Tech**, **Youth Innovation in Africa**
+| Project | What it Does | Tools |
+|--------|----------------|--------|
+| **MindConnect** | Mental wellness app using AI affirmations & multilingual support | Flutter · FastAPI · TFLite |
+| **Smart AgriAI** | Detects crop diseases via image recognition | PyTorch · OpenCV · Python |
+| **GBV Sentiment Classifier** | NLP model analyzing gender-based violence reports | HuggingFace · spaCy · Transformers |
 
 ---
 
-### 📫 Get in Touch
+### 🛠 Tech Stack
 
-Want to collaborate on AI for social good?  
-📩 **alice@example.com**  
+`Python` `scikit-learn` `Pandas` `NumPy` `TensorFlow` `Keras`  
+`FastAPI` `Flask` `Docker` `Git` `Jupyter`  
+`Power BI` `Tableau` `NLP` `Computer Vision` `Mobile AI`
+
+---
+
+### 📫 Let’s Connect
+
+📧 **alice@example.com**  
 🔗 [LinkedIn](https://linkedin.com/in/alice-namagembe-18b2b22a1)  
-📁 [Portfolio](#) *(Coming soon)*
+🌱 Portfolio — *coming soon!*
 
 ---
 
-<p align="center"><i>"Using technology not just to automate — but to empower."</i></p>
-
+<p align="center"><i>"Building tech that feels — and thinks — human."</i> 🌸</p>
