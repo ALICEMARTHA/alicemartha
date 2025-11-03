@@ -1,63 +1,80 @@
-<div align="center">
-
-# 🌷 Aelis Bloom  
-
-**Software Developer • AI Engineer • Builder of Thoughtful Systems**  
-
-*“I make machines learn, but I never forget what it means to think like a human.”*  
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-</div>
-
-### ✨ About Me
-I’m a developer who believes code should feel like good design — intuitive, timeless, and kind to the eyes.  
-My world revolves around **AI systems**, **neural reasoning**, and the quiet art of keeping complexity graceful.  
-
-I build tech that feels alive but stays grounded — where modern intelligence meets classic logic.  
-
----
-
-### 🪄 What I’m Working On
-- Making AI systems *understand* instead of just *compute*  
-- Streamlining deep learning pipelines  
-- Blending minimalism with machine intelligence  
-
----
-
-### 💻 Tech I Speak
-`Python` • `C++` • `JavaScript` • `PyTorch` • `TensorFlow` • `Node.js` • `Docker` • `Linux`
-
----
-
-### 🩵 My GitHub Vibe  
+<h1 align="center">Alice Namagembe</h1>
+<h3 align="center">AI & Machine Learning Engineer | Data Analyst | Tech for Social Good Advocate</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aelisbloom&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Aelis's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelisbloom&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aelisbloom&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/alice-namagembe-18b2b22a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alice_Namagembe-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:alice@example.com">
+    <img src="https://img.shields.io/badge/Email-alice@example.com-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://github.com/AliceNamagembe">
+    <img src="https://img.shields.io/badge/GitHub-@AliceNamagembe-black?logo=github&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-### 🌿 Let’s Connect  
-💌 [Email](mailto:your@email.com)  
-💻 [Portfolio](https://your-portfolio-link.com)  
-📚 [LinkedIn](https://linkedin.com/in/yourhandle)  
-🐦 [Twitter](https://twitter.com/yourhandle)
+### 🧭 Dashboard
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliceNamagembe&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceNamagembe&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=AliceNamagembe&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+### 💼 About Me
 
-✨ *“Technology is just modern magic — written in logic and caffeine.”* ✨  
+I’m **Alice Namagembe**, an AI & ML engineer passionate about creating impactful and ethical technology solutions for Africa and beyond. With a strong foundation in data science and machine learning, I work on socially driven projects that address real-world challenges in health, education, and gender equity.
 
-![footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+- 🎓 BSc in AI & Machine Learning — ISBAT University  
+- 🧠 Focused on NLP, predictive modeling, and inclusive tech  
+- 🌍 Advocate for responsible AI in underrepresented communities  
+- 🤝 Zindi Ambassador | Women in AI & STEM Supporter
 
-</div>
+---
+
+### 🚀 Projects & Research
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **MindConnect** | Mental wellness mobile app using AI-driven affirmations, multilingual support, and brainwave therapy integrations. | Flutter, TensorFlow Lite, FastAPI |
+| **AI for Agriculture** | Smart crop disease detection using CNN models. | Python, OpenCV, PyTorch |
+| **NLP for Gender-Based Violence Reporting** | Built a sentiment classifier for anonymized GBV reports. | spaCy, HuggingFace Transformers |
+
+> 🧪 More projects coming soon — stay tuned.
+
+---
+
+### 🛠 Skills & Tools
+
+`Python` `Pandas` `NumPy` `scikit-learn` `TensorFlow` `Keras` `PyTorch`  
+`FastAPI` `Flask` `Git` `Docker` `Jupyter` `Tableau` `Power BI`  
+`Natural Language Processing (NLP)` `Computer Vision` `Mobile AI`
+
+---
+
+### 🎤 Speaking & Media
+
+- 🧠 Featured Speaker @ **AI for Good Global Summit** (ITU)  
+- 🌐 Mentor @ **Zindi Africa Hackathons**  
+- 🗣️ Talks on **Responsible AI**, **Gender + Tech**, **Youth Innovation in Africa**
+
+---
+
+### 📫 Get in Touch
+
+Want to collaborate on AI for social good?  
+📩 **alice@example.com**  
+🔗 [LinkedIn](https://linkedin.com/in/alice-namagembe-18b2b22a1)  
+📁 [Portfolio](#) *(Coming soon)*
+
+---
+
+<p align="center"><i>"Using technology not just to automate — but to empower."</i></p>
+
