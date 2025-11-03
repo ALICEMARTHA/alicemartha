@@ -1,19 +1,14 @@
-<h1 align="center">Alice Namagembe</h1>
-<h3 align="center">AI & Machine Learning Engineer • Data Analyst • Tech for Social Good</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/alice-namagembe-18b2b22a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alice_Namagembe-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="mailto:alice@example.com">
-    <img src="https://img.shields.io/badge/Email-alice@example.com-red?logo=gmail&style=flat-square" />
-  </a>
-  <a href="https://github.com/AliceNamagembe">
-    <img src="https://img.shields.io/badge/GitHub-@AliceNamagembe-black?logo=github&style=flat-square" />
-  </a>
-</p>
+# 🌷 Aelis Bloom  
 
----
+**Software Developer • AI Engineer • Builder of Thoughtful Systems**  
+
+*“I make machines learn, but I never forget what it means to think like a human.”*  
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
 
 ### 🧭 My GitHub Dashboard
 
