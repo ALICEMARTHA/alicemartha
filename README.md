@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌷 Aelis Bloom  
+# 🌷 ALICE MARTHA 
 
 **Software Developer • AI Engineer • Builder of Thoughtful Systems**  
 
@@ -10,18 +10,6 @@
 
 </div>
 
-### 🧭 My GitHub Dashboard
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliceNamagembe&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceNamagembe&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=AliceNamagembe&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌼 About Me
 
@@ -36,7 +24,7 @@ Hi! I’m **Alice**, an AI & Machine Learning Engineer with a passion for buildi
 
 ---
 
-### 🚀 Projects I’m Proud Of
+### 🚀 My Featured Projects
 
 | Project | What it Does | Tools |
 |--------|----------------|--------|
