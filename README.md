@@ -30,15 +30,19 @@ I build tech that feels alive but stays grounded — where modern intelligence m
 
 ---
 
-### 🩵 My GitHub Vibe
+### 🩵 My GitHub Vibe  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aelisbloom&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Aelis's GitHub stats" />
+</p>
 
-![Aelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelisbloom&show_icons=true&theme=omni&hide_border=true&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aelisbloom&layout=compact&theme=omni&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aelisbloom&theme=omni&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelisbloom&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aelisbloom&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
